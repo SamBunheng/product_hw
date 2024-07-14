@@ -1,0 +1,20 @@
+{
+  "home": "Accueil",
+  "about_us": "À propos de nous",
+  "product": "Produit",
+  "service": "Service",
+  "product2": "Produit2",
+  "cart_service": "Service de chariot",
+  "register": "S'inscrire",
+  "login": "Se connecter",
+  "otp": "OTP",
+  "table": "Tableau",
+  "profile": "Profil",
+  "logout": "Se déconnecter",
+  "increment_value": "Augmenter la valeur",
+  "decrement_value": "Diminuer la valeur",
+  "app_description": "Ceci est la description de l'application.",
+  "our_story": "Notre entreprise a été fondée en 2015 avec pour mission de fournir des produits de haute qualité et un service client exceptionnel. Nous avons commencé en tant que petite opération dans un garage local, mais grâce à un travail acharné, de la dédication et un engagement envers l'innovation, nous sommes devenus un acteur majeur dans notre secteur.",
+  "learn_more_about_us": "En savoir plus sur nous",
+  "about_us_image_alt": "Image À propos de nous"
+}

@@ -29,7 +29,7 @@ const Product = () => {
     fetchData();
   }, []);
   return (
-    <div className="flex flex-wrap justify-center gap-6">
+    <div className="flex flex-wrap justify-center gap-2">
       {isLoading ? (
         <LoadingComponent />
       ) : (
